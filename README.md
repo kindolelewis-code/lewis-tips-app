@@ -1,2 +1,1 @@
-# lewis-tips-app
-Mikeka 
+Wakamalia
